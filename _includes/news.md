@@ -2,6 +2,8 @@
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
+<p><strong>[10/2024]</strong> I joined <em>Genenet</em> as <strong>AI Bioinformatician</strong></p>
+
 <p><strong>[1/2024]</strong> Our research paper titled "MulMarker: A Comprehensive Framework for Identifying Multi-Gene Prognostic Signatures" was published by the <em>IEEE Computer Society</em></p>
 
 <p><strong>[12/2023]</strong> I presented our tool, <strong>MulMarker</strong>, at the BIBM conference through an oral presentation</p>
